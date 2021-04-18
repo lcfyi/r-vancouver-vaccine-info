@@ -3,7 +3,7 @@ name: "Update Post"
 
 on:
   schedule:
-    - cron: "10 */1 * * *" # At the 10th minute every hour to hopefully schedule on time
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
