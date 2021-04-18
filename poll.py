@@ -1,4 +1,5 @@
 import requests
+import html
 
 POST_API_URL = "https://api.reddit.com/api/info/?id=t3_mejfeu"
 FILENAME = "VACCINES.md"
@@ -19,7 +20,7 @@ def main():
     post_contents = data["data"]["children"][0]["data"]["selftext"]
     if data and post_contents:
         with open(FILENAME, "w") as f:
-            f.write(post_contents)
+            f.write(html.unescape(post_contents))
 
 
 if __name__ == "__main__":
