@@ -1,6 +1,6 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/)
 
-https://preview.redd.it/iazlundgdzt61.jpg?width=900&amp;format=pjpg&amp;auto=webp&amp;s=289f20f176673c8c4bbec33d34f68150dabb3f41
+https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -8,7 +8,7 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&amp;format=pjpg&amp;auto=web
 * **Step 2: Book an appointment. You will be contact to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
 * **Step 3: Visit the vaccine clinic to get your vaccine dose.**
 
-&amp;#x200B;
+&#x200B;
 
 # 1) Age Based Rollout
 
@@ -21,7 +21,7 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&amp;format=pjpg&amp;auto=web
       * Over 590 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
       * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
-      * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) &lt;- don't need to be a member
+      * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
       * Shoppers Drug Mart online appointment booking ([Source](https://covid-19.shoppersdrugmart.ca/en?_ga=2.93975893.991654939.1618447569-1544586229.1618447569))
       * People can call their local pharmacy ([link to Pharmacy locations](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations)) to book an appointment.
       * Drop in appointments may also be an option at over 150 participating pharmacies. ([Source](https://news.gov.bc.ca/releases/2021HLTH0061-000595))
@@ -38,7 +38,7 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&amp;format=pjpg&amp;auto=web
 # 4) Frontline workers
 
 * This streamline is now temporarily suspended because NACI has temporary stopped advising the use of the AstraZeneca/Oxford vaccine for those under the age of 55.  I will keep you posted about any further updates.
-* As of April 8th, BC is waiting for AZ to get approved for younger people or for J&amp;J deliveries before restarting their frontline worker stream
+* As of April 8th, BC is waiting for AZ to get approved for younger people or for J&J deliveries before restarting their frontline worker stream
 * How to tell if you are a frontline worker ([Source](https://news.gov.bc.ca/files/03.18.2021_COVID_Immunization_Plan.pdf), slides 4-11)
 * If you are in this group your employer will contact you how to get vaccinated.
 
@@ -115,4 +115,4 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 * Learn about the [Pfizer vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/pfizer-biontech.html)
 * Learn about the [Moderna vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/moderna.html)
 * Learn about the [AstraZeneca/SII COVISHIELD (AZ/SII) vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/astrazeneca.html)
-* Learn about the [Johnson &amp; Johnson vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/janssen.html)
+* Learn about the [Johnson & Johnson vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/janssen.html)
