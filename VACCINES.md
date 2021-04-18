@@ -1,6 +1,6 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/)
 
-[Latest BC Vaccine Information](https://preview.redd.it/6okcqten6ws61.png?width=1201&amp;format=png&amp;auto=webp&amp;s=a42a101fd4e47ec61e4982061808f863925530e5)
+https://preview.redd.it/iazlundgdzt61.jpg?width=900&amp;format=pjpg&amp;auto=webp&amp;s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -50,129 +50,15 @@
 * Northern Health is taking a **whole community** approach and will be vaccinating **all adults (18+)** in a city, check this schedule to see if/when it affects you  **(**[**Source**](https://stories.northernhealth.ca/news/northern-health-covid-19-vaccine-distribution-additional-community-wide-18-immunizations)**)**
 * As of March 29th, the AstraZeneca/Oxford vaccine is no longer being offered to people under the age of 55 in BC.  This is following the advice of NACI (National Advisory Committee on Immunization) ([Source](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/rapid-response-recommended-use-astrazeneca-covid-19-vaccine-younger-adults.html)).
 
-&amp;#x200B;
-
-# Vaccination Information
-
-* As of April 5th, BC has vaccinated 893,590 doses in total. 87,472 people have received their second dose and 806,118 BCers have gotten their first dose.
-* That means that 15.8% of our total population (and 18.5% of our adult population) has at least one dose.
-* BC vaccinated 36,789 people in the last two days.
-* BC has received 1,289,060 doses and have used up 69.3% of those doses.
-* In the last 7 days BC has administered 173,446 doses (24,778 doses per day)
-
-&amp;#x200B;
-
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
-# Check out your local health authority for exact information as age ranges and vaccine rollout can be different in each region.
-
-# 
-
-## -----------------------------------------------------------------------------------------------
-
-# How to book a vaccine appointment
-
-## Get ready to call
-
-When you call your health authority, you'll be asked for:
-
-* First and last name
-* Date of birth 
-* Postal code
-* Personal Health Number
-
-You can find your Personal Health Number on the back of your B.C. driver's licence, BC Services Card or CareCard. If you do not have a Personal Health Number, you can still receive the vaccine.
-
-We'll also ask you for contact information:
-
-* An email address that gets checked regularly**or**
-* A phone number that can receive text messages
-
-**We will never ask you for your SIN, driver's licence number or** **banking and credit card details.**
-
-## I'm calling for myself
-
-Here's what happens when you call:
-
-* The phone agent verifies your age and asks for your personal information
-* You work with the phone agent to select an appointment time slot at a clinic close to home
-* The phone agent confirms your appointment time and clinic location
-* If you've provided contact information, you get a confirmation message sent by email or text
-
-## I'm calling on behalf of someone
-
-Here's what happens when you call on behalf of someone:
-
-* The phone agent verifies who you are calling for and asks you to provide their age and personal information
-* You work with the phone agent to select an appointment time slot at a clinic close to the home of the person you're calling for
-* The phone agent confirms the appointment time and clinic location
-* If you've provided contact information, you get a confirmation message sent by email or text
-
-## ------------------------------------------------------------------------------------------
-
-## Select your health authority and call
-
-All call centres are open. **Not sure who to call?** [Find out what health authority you live in](https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/partners/health-authorities/regional-health-authorities). Online booking for the whole province will start on April 6th.
-
-## Call centre hours
-
-## Seven days a week, 7 am to 7 pm (PDT) 
-
-9 am to 5 pm Good Friday and Easter Monday.
-
-Phone lines may be busy. We recommend calling in the late afternoon or evening.
-
-# Fraser Health ([website](https://www.fraserhealth.ca/health-topics-a-to-z/coronavirus/covid-19-vaccine))
-
-for the latest info and who is eligible.
-
-## Call: 1-855-755-2455 from 7am to 7pm
-
-## [Book online](https://fraser-health-staff-vaccinations.myhealthinfo.ca/index.php) from 7pm to 7am
-
-[Fraser Health clinic locations](https://www.fraserhealth.ca/vaccineclinic#.YEWLIy3r00o)
-
-## Interior Health ([website](https://news.interiorhealth.ca/news/covid-19-vaccines/))
-
-For the latest info and who is eligible.
-
-## Call: 1-877-740-7747
-
-[Interior Health clinic locations](https://news.interiorhealth.ca/news/covid-19-vaccines/)
-
-## Island Health ([website](https://www.islandhealth.ca/learn-about-health/covid-19/covid-19-vaccine))
-
-For the latest info and who is eligible.
-
-## Call: 1-833-348-4787
-
-[Island Health clinic locations and call-in schedule](https://www.islandhealth.ca/learn-about-health/covid-19/covid-19-vaccine)
-
-## Northern Health ([website](https://www.northernhealth.ca/health-topics/covid-19-vaccine-plan#nh-resources))
-
-For the latest info and who is eligible.
-
-## Call: 1-844-255-7555
-
-[Northern Health clinic locations and call-in schedule](https://www.northernhealth.ca/health-topics/covid-19-vaccine-plan)
-
-## Vancouver Coastal Health ([website](http://www.vch.ca/covid-19/covid-19-vaccine))
-
-For the latest info and who is eligible.
-
-## Call: 1-877-587-5767
-
-[Vancouver Coastal Health clinic locations and call-in schedule](http://www.vch.ca/covid-19/covid-19-vaccine)
-
-**Note:** Northern Health and some rural and smaller communities in B.C. may have different call-in schedules. Review your health authority call-in schedule to confirm when you should call. 
-
-\----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------
 
 ## What to expect at the age based vaccine clinic
 
 Only people who are eligible **and** have an appointment will get their vaccine dose. Please do not show up at a clinic unless you have an appointment and your age group is eligible.
 
-As part of [Phase 2](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#choice), you will get either the Pfizer or Moderna vaccine. A choice will not be offered.
+As part of [Phase](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#choice) 3, you will get either the Pfizer or Moderna vaccine. A choice will not be offered.
 
 ## Arrive prepared
 
