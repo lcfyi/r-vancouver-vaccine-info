@@ -1,5 +1,7 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/)
 
+AZ is now being offered to 40+; check out more detailed info below!
+
 https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
@@ -16,9 +18,10 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 * **Pfizer and Moderna**
    * **Booking:** BC is currently booking appointments for those **63 years of age (1958 or earlier)** or older, as of April 16th, BC's covid briefing
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 16th **everyone born in 1976 (45+)** or earlier can register. ([Source](https://twitter.com/BCGovNews/status/1380998708246970368/photo/1))
-* **55+ (1966+) AstraZeneca in select cities across BC**
-   * People aged **55+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
-      * Over 590 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
+* **40+ (1981 or earlier) AstraZeneca in select cities across BC**
+   * People aged 40**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
+      * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
+      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, and Fleetwood \*\*new\*\***
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
       * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
       * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
@@ -37,18 +40,17 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 # 4) Frontline workers
 
-* This streamline is now temporarily suspended because NACI has temporary stopped advising the use of the AstraZeneca/Oxford vaccine for those under the age of 55.  I will keep you posted about any further updates.
+* This streamline is now temporarily suspended because NACI has temporary stopped advising the use of the AstraZeneca/Oxford vaccine for those under the age of 40.  I will keep you posted about any further updates.
 * As of April 8th, BC is waiting for AZ to get approved for younger people or for J&J deliveries before restarting their frontline worker stream
 * How to tell if you are a frontline worker ([Source](https://news.gov.bc.ca/files/03.18.2021_COVID_Immunization_Plan.pdf), slides 4-11)
 * If you are in this group your employer will contact you how to get vaccinated.
 
-# Latest Information (as of 4:50pm April 11th):
+# Latest Information (as of 8:15pm April 19th):
 
-* All adults (18+) in Whistler that either live or work there can get vaccinated starting Monday, April 12th.  Click [here](http://www.vch.ca/covid-19/covid-19-vaccine/whistler-vaccination) to find more information.
-* "The First Nations Health Authority (FNHA) is pleased to announce that residents of all First Nations communities in the province of British Columbia have now been offered a first dose of the COVID-19 vaccine." ([Source](https://www.fnha.ca/about/news-and-events/news/first-dose-covid-19-vaccine-clinics-complete-in-all-bc-first-nations-communities))
+* AstraZeneca doses eligible ages are now 40+.  Check above for more info.
 * Interior Health is using a whole community approach (18+) to many small, remote communities. See if your community is getting a clinic [here](https://news.interiorhealth.ca/news/taking-a-community-approach/)
 * Northern Health is taking a **whole community** approach and will be vaccinating **all adults (18+)** in a city, check this schedule to see if/when it affects you  **(**[**Source**](https://stories.northernhealth.ca/news/northern-health-covid-19-vaccine-distribution-additional-community-wide-18-immunizations)**)**
-* As of March 29th, the AstraZeneca/Oxford vaccine is no longer being offered to people under the age of 55 in BC.  This is following the advice of NACI (National Advisory Committee on Immunization) ([Source](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/rapid-response-recommended-use-astrazeneca-covid-19-vaccine-younger-adults.html)).
+* As of March 29th, the AstraZeneca/Oxford vaccine is no longer being offered to people under the age of 40 in BC.  This is following the advice of NACI (National Advisory Committee on Immunization) ([Source](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/rapid-response-recommended-use-astrazeneca-covid-19-vaccine-younger-adults.html)).
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
