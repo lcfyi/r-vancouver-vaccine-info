@@ -2,6 +2,8 @@
 
 AZ is now being offered to 40+; check out more detailed info below!
 
+Added pictures and links to Vaccine Hunters Canada ([Source](https://twitter.com/VaxHuntersCan)) 
+
 https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
@@ -9,6 +11,18 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 * **Step 1: Register. First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
 * **Step 2: Book an appointment. You will be contact to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
 * **Step 3: Visit the vaccine clinic to get your vaccine dose.**
+
+&#x200B;
+
+# Finding an AstraZeneca Pharmacy (40+): 
+
+* SURREY - Delta Prescription Clinic (120 street and 84 avenue in Delta) Afternoon April 26 AZ shot [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
+*  Surrey 40+  Somerset Pharmacy Services (72nd avenue and 138 street in Surrey) has shots available starting on April 27: [https://b.telehippo.com/o/somerset/s/1486…](https://t.co/zWPc3IMkwW?amp=1)
+   * **Lots more opportunities (10+ pharmacies) in Surrey (see** [**Twitter**](https://twitter.com/VaxHuntersCan)**)**
+*  Delta! Are you free on April 26 in the afternoon? We've got appointments for an AZ shot for 40+ at the Delta Prescription Clinic (120 street and 84 Avenue in Delta). Book now!: [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
+* Maple Ridge! What are you doing on May 12 between 10:30 AM and 11:30 AM? There is an AZ shot for you at the Medlandia Pharmacy (Lougheed Highway and 119 avenue) Lots of availability May 19 and Beyond!: [https://b.telehippo.com/o/medlandphm](https://t.co/eRP8qT63YZ?amp=1)
+* Abbotsford: Need an AZ shot on Friday afternoon? Abbotsford Costco has you covered!! Book here! (No membership required for booking): [https://b.telehippo.com/o/w163](https://t.co/z75pHx7bxW?amp=1)
+* Abbotsford: The Plaza Pharmacy (Clearbrook Road and South Fraser Way) has AZ shot appointments tomorrow at 4 PM, Friday, Saturday and Sunday! Book Now!: [https://b.telehippo.com/o/plazapharm](https://t.co/OJXPlMcVmc?amp=1)
 
 &#x200B;
 
@@ -31,7 +45,7 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 # 2) Critically Extremely Vulnerable (CEV)
 
-* As of today, April 1st, if you are clinically extremely vulnerable (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)) and you have received a letter from BC saying so you can start booking appointments.  If you are CEV and have not received a letter you can call on April 15th to see if you qualify.
+* As of April 1st, if you are clinically extremely vulnerable (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)) and you have received a letter from BC saying so you can start booking appointments.  If you are CEV and have not received a letter you can call on April 15th to see if you qualify.
 * Visit this BC CDC site to find information to help you plan for your vaccine with considerations for your health condition (talks about medications and the right time to book an appointment, etc) ([Source](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/covid-19-vaccine/vaccine-considerations#cev)).
 
 # 3) Indigenous Peoples
@@ -41,16 +55,13 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 # 4) Frontline workers
 
 * This streamline is now temporarily suspended because NACI has temporary stopped advising the use of the AstraZeneca/Oxford vaccine for those under the age of 40.  I will keep you posted about any further updates.
-* As of April 8th, BC is waiting for AZ to get approved for younger people or for J&J deliveries before restarting their frontline worker stream
 * How to tell if you are a frontline worker ([Source](https://news.gov.bc.ca/files/03.18.2021_COVID_Immunization_Plan.pdf), slides 4-11)
 * If you are in this group your employer will contact you how to get vaccinated.
+* Educators and first responders are being prioritized in communities with more covid cases (Surrey, Vancouver, Delta, Coquitlam, Abbotsford and Langley are some examples). Check with your employer for more information
 
 # Latest Information (as of 8:15pm April 19th):
 
 * AstraZeneca doses eligible ages are now 40+.  Check above for more info.
-* Interior Health is using a whole community approach (18+) to many small, remote communities. See if your community is getting a clinic [here](https://news.interiorhealth.ca/news/taking-a-community-approach/)
-* Northern Health is taking a **whole community** approach and will be vaccinating **all adults (18+)** in a city, check this schedule to see if/when it affects you  **(**[**Source**](https://stories.northernhealth.ca/news/northern-health-covid-19-vaccine-distribution-additional-community-wide-18-immunizations)**)**
-* As of March 29th, the AstraZeneca/Oxford vaccine is no longer being offered to people under the age of 40 in BC.  This is following the advice of NACI (National Advisory Committee on Immunization) ([Source](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/rapid-response-recommended-use-astrazeneca-covid-19-vaccine-younger-adults.html)).
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
@@ -78,7 +89,7 @@ All clinics are wheelchair accessible. You will be provided a mask if you need o
 At the clinic you will:
 
 * Complete a check-in process
-* [https://www.islandhealth.ca/learn-about-health/covid-19/covid-19-vaccine](https://www.islandhealth.ca/learn-about-health/covid-19/covid-19-vaccine)Get your vaccine dose
+* Get your vaccine dose
 * Wait in an observation area for about 15 minutes
 
 You can expect to be at the clinic for 30 to 60 minutes in total. 
