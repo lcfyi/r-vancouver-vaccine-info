@@ -1,8 +1,6 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/)
 
-AZ is now being offered to 40+; check out more detailed info below!
-
-Added pictures and links to Vaccine Hunters Canada ([Source](https://twitter.com/VaxHuntersCan)) 
+AZ is now being offered to 40+; check out more detailed info below! Look at Vaccine Hunters Canada to find empty appointments in your area ([Twitter](https://twitter.com/VaxHuntersCan))
 
 https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
@@ -14,12 +12,12 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 &#x200B;
 
-# Finding an AstraZeneca Pharmacy (40+): 
+# Finding an AstraZeneca Pharmacy (40+):
 
 * SURREY - Delta Prescription Clinic (120 street and 84 avenue in Delta) Afternoon April 26 AZ shot [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
-*  Surrey 40+  Somerset Pharmacy Services (72nd avenue and 138 street in Surrey) has shots available starting on April 27: [https://b.telehippo.com/o/somerset/s/1486…](https://t.co/zWPc3IMkwW?amp=1)
+* Surrey 40+  Somerset Pharmacy Services (72nd avenue and 138 street in Surrey) has shots available starting on April 27: [https://b.telehippo.com/o/somerset/s/1486…](https://t.co/zWPc3IMkwW?amp=1)
    * **Lots more opportunities (10+ pharmacies) in Surrey (see** [**Twitter**](https://twitter.com/VaxHuntersCan)**)**
-*  Delta! Are you free on April 26 in the afternoon? We've got appointments for an AZ shot for 40+ at the Delta Prescription Clinic (120 street and 84 Avenue in Delta). Book now!: [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
+* Delta! Are you free on April 26 in the afternoon? We've got appointments for an AZ shot for 40+ at the Delta Prescription Clinic (120 street and 84 Avenue in Delta). Book now!: [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
 * Maple Ridge! What are you doing on May 12 between 10:30 AM and 11:30 AM? There is an AZ shot for you at the Medlandia Pharmacy (Lougheed Highway and 119 avenue) Lots of availability May 19 and Beyond!: [https://b.telehippo.com/o/medlandphm](https://t.co/eRP8qT63YZ?amp=1)
 * Abbotsford: Need an AZ shot on Friday afternoon? Abbotsford Costco has you covered!! Book here! (No membership required for booking): [https://b.telehippo.com/o/w163](https://t.co/z75pHx7bxW?amp=1)
 * Abbotsford: The Plaza Pharmacy (Clearbrook Road and South Fraser Way) has AZ shot appointments tomorrow at 4 PM, Friday, Saturday and Sunday! Book Now!: [https://b.telehippo.com/o/plazapharm](https://t.co/OJXPlMcVmc?amp=1)
