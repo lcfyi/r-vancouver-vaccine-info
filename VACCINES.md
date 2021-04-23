@@ -33,7 +33,7 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 * **40+ (1981 or earlier) AstraZeneca in select cities across BC**
    * People aged 40**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
       * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
-      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, and Fleetwood \*\*new\*\***
+      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, and Fleetwood \*\*new\*\*** [More Information](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood)
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
       * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
       * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
