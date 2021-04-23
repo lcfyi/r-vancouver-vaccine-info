@@ -14,13 +14,10 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 # Finding an AstraZeneca Pharmacy (40+):
 
-* SURREY - Delta Prescription Clinic (120 street and 84 avenue in Delta) Afternoon April 26 AZ shot [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
-* Surrey 40+  Somerset Pharmacy Services (72nd avenue and 138 street in Surrey) has shots available starting on April 27: [https://b.telehippo.com/o/somerset/s/1486…](https://t.co/zWPc3IMkwW?amp=1)
-   * **Lots more opportunities (10+ pharmacies) in Surrey (see** [**Twitter**](https://twitter.com/VaxHuntersCan)**)**
-* Delta! Are you free on April 26 in the afternoon? We've got appointments for an AZ shot for 40+ at the Delta Prescription Clinic (120 street and 84 Avenue in Delta). Book now!: [https://b.telehippo.com/o/deltarx](https://t.co/grCgRuHMcY?amp=1)
-* Maple Ridge! What are you doing on May 12 between 10:30 AM and 11:30 AM? There is an AZ shot for you at the Medlandia Pharmacy (Lougheed Highway and 119 avenue) Lots of availability May 19 and Beyond!: [https://b.telehippo.com/o/medlandphm](https://t.co/eRP8qT63YZ?amp=1)
-* Abbotsford: Need an AZ shot on Friday afternoon? Abbotsford Costco has you covered!! Book here! (No membership required for booking): [https://b.telehippo.com/o/w163](https://t.co/z75pHx7bxW?amp=1)
-* Abbotsford: The Plaza Pharmacy (Clearbrook Road and South Fraser Way) has AZ shot appointments tomorrow at 4 PM, Friday, Saturday and Sunday! Book Now!: [https://b.telehippo.com/o/plazapharm](https://t.co/OJXPlMcVmc?amp=1)
+* Looking for booking an AZ vaccine through a pharmacy? 
+* There is a [**Twitter**](https://twitter.com/VaxHuntersCan) account that posts which pharmacy has appointments available.  This is the best way to shop for an appointment. 
+   * They post about 10-20 different locations per day in BC
+   * They also post other provinces so you will need to scroll through to find one that is close to you
 
 &#x200B;
 
@@ -28,8 +25,8 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **63 years of age (1958 or earlier)** or older, as of April 16th, BC's covid briefing
-   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 16th **everyone born in 1976 (45+)** or earlier can register. ([Source](https://twitter.com/BCGovNews/status/1380998708246970368/photo/1))
+   * **Booking:** BC is currently booking appointments for those **60 years of age (1961 or earlier)** or older, as of April 23rd, BC's covid briefing
+   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 23rd at 12pm (noon) **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 * **40+ (1981 or earlier) AstraZeneca in select cities across BC**
    * People aged 40**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
       * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
