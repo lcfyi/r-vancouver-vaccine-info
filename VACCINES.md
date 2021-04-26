@@ -1,6 +1,6 @@
-# [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/)
+# [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
 
-AZ is now being offered to 40+; check out more detailed info below! Look at Vaccine Hunters Canada to find empty appointments in your area ([Twitter](https://twitter.com/VaxHuntersCan))
+# Need to find a Pharmacy? Look at Vaccine Hunters Canada to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersCan))
 
 https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
 
@@ -14,8 +14,8 @@ https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f
 
 # Finding an AstraZeneca Pharmacy (40+):
 
-* Looking for booking an AZ vaccine through a pharmacy? 
-* There is a [**Twitter**](https://twitter.com/VaxHuntersCan) account that posts which pharmacy has appointments available.  This is the best way to shop for an appointment. 
+* Looking for booking an AZ vaccine through a pharmacy?
+* There is a [**Twitter**](https://twitter.com/VaxHuntersCan) account that posts which pharmacy has appointments available.  This is the best way to shop for an appointment.
    * They post about 10-20 different locations per day in BC
    * They also post other provinces so you will need to scroll through to find one that is close to you
 
@@ -124,3 +124,11 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 * Learn about the [Moderna vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/moderna.html)
 * Learn about the [AstraZeneca/SII COVISHIELD (AZ/SII) vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/astrazeneca.html)
 * Learn about the [Johnson & Johnson vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/janssen.html)
+
+\----------------------------------------------------------------------------------------------------------------
+
+# BC vaccination projections
+
+https://preview.redd.it/g9h3rkf7ggv61.png?width=1662&format=png&auto=webp&s=9662814a80305c62a470b498eca1b039ee93c4a2
+
+BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered. 
