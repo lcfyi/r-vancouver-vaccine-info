@@ -2,7 +2,15 @@
 
 # Need to find a Pharmacy? Look at Vaccine Hunters Canada to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersCan))
 
-https://preview.redd.it/iazlundgdzt61.jpg?width=900&format=pjpg&auto=webp&s=289f20f176673c8c4bbec33d34f68150dabb3f41
+\---------------------------------------------------------------------
+
+# I received dose 1 before the registration system was available and I need to get dose 2
+
+# Starting May 1, register for your second dose. You will then get a notification when you are eligible to book your second dose. 
+
+\-------------------------------------------------------------------
+
+https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351ce1745244503fd84246e2cebeb326ac08e7b6
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -131,4 +139,4 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 
 https://preview.redd.it/g9h3rkf7ggv61.png?width=1662&format=png&auto=webp&s=9662814a80305c62a470b498eca1b039ee93c4a2
 
-BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered. 
+BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered.
