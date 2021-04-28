@@ -33,7 +33,7 @@ https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351c
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **60 years of age (1961 or earlier)** or older, as of April 23rd, BC's covid briefing
+   * **Booking:** BC is currently booking appointments for those **59 years of age (1962 or earlier)** or older, as of April 28th
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 23rd at 12pm (noon) **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 * **40+ (1981 or earlier) AstraZeneca in select cities across BC**
    * People aged 40**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
