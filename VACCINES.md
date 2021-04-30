@@ -1,8 +1,12 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
 
-# Need to find a Pharmacy? Look at Vaccine Hunters Canada to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersCan))
+# Need to find a Pharmacy? Look at Vaccine Hunters BC to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersBC)) or use this [website](http://vaccineupdates.ca/) that let's you customize the Vaccine Hunter tweets for you. 
 
 \---------------------------------------------------------------------
+
+# AZ is now available for 30+ in all pharmacies. The doses are almost all spoken for so let the race begin!
+
+\--------------------------------------------------------------------
 
 # I received dose 1 before the registration system was available and I need to get dose 2
 
@@ -10,7 +14,7 @@
 
 \-------------------------------------------------------------------
 
-https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351ce1745244503fd84246e2cebeb326ac08e7b6
+https://preview.redd.it/vur93na3g9w61.png?width=870&format=png&auto=webp&s=5d52bacfc6d11a9e7bccc1d8aaa5961680ccc1d5
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -20,7 +24,7 @@ https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351c
 
 &#x200B;
 
-# Finding an AstraZeneca Pharmacy (40+):
+# Finding an AstraZeneca Pharmacy (30+):
 
 * Looking for booking an AZ vaccine through a pharmacy?
 * There is a [**Twitter**](https://twitter.com/VaxHuntersCan) account that posts which pharmacy has appointments available.  This is the best way to shop for an appointment.
@@ -33,10 +37,10 @@ https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351c
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **59 years of age (1962 or earlier)** or older, as of April 28th
-   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 23rd at 12pm (noon) **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
-* **40+ (1981 or earlier) AstraZeneca in select cities across BC**
-   * People aged 40**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
+   * **Booking:** BC is currently booking appointments for those **56 years of age (1965 or earlier)** or older, as of April 30th
+   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
+* **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
+   * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
       * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
       * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, and Fleetwood \*\*new\*\*** [More Information](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood)
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
@@ -57,14 +61,10 @@ https://preview.redd.it/g2dyxx0yjnv61.png?width=1201&format=png&auto=webp&s=351c
 
 # 4) Frontline workers
 
-* This streamline is now temporarily suspended because NACI has temporary stopped advising the use of the AstraZeneca/Oxford vaccine for those under the age of 40.  I will keep you posted about any further updates.
+* BC wants to get all first responders, educators and child care workers vaccinated by mid-May and are using 15% of our weekly doses towards this stream.
 * How to tell if you are a frontline worker ([Source](https://news.gov.bc.ca/files/03.18.2021_COVID_Immunization_Plan.pdf), slides 4-11)
 * If you are in this group your employer will contact you how to get vaccinated.
 * Educators and first responders are being prioritized in communities with more covid cases (Surrey, Vancouver, Delta, Coquitlam, Abbotsford and Langley are some examples). Check with your employer for more information
-
-# Latest Information (as of 8:15pm April 19th):
-
-* AstraZeneca doses eligible ages are now 40+.  Check above for more info.
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
