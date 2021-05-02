@@ -1,6 +1,6 @@
 # [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
 
-# Need to find a Pharmacy? Look at Vaccine Hunters BC to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersBC)) or use this [website](http://vaccineupdates.ca/) that let's you customize the Vaccine Hunter tweets for you. 
+# Need to find a Pharmacy? Look at Vaccine Hunters BC to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersBC)) or use this [website](http://vaccineupdates.ca/) that let's you customize the Vaccine Hunter tweets for you.
 
 \---------------------------------------------------------------------
 
@@ -14,7 +14,9 @@
 
 \-------------------------------------------------------------------
 
-https://preview.redd.it/vur93na3g9w61.png?width=870&format=png&auto=webp&s=5d52bacfc6d11a9e7bccc1d8aaa5961680ccc1d5
+&#x200B;
+
+https://preview.redd.it/mk274xlg6sw61.png?width=900&format=png&auto=webp&s=11886a7fb403a373ec926ed81fc6446873f4683d
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -42,7 +44,7 @@ https://preview.redd.it/vur93na3g9w61.png?width=870&format=png&auto=webp&s=5d52b
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
    * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
       * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
-      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, and Fleetwood \*\*new\*\*** [More Information](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood)
+      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, Fleetwood, Renfrew-Collingwood, Sunset, Brittania Beach, Pinecrest  Estates and D'arcy** [More Information](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood)
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
       * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
       * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
