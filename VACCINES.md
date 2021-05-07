@@ -2,21 +2,9 @@
 
 # Need to find a Pharmacy? Look at Vaccine Hunters BC to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersBC)) or use this [website](http://vaccineupdates.ca/) that let's you customize the Vaccine Hunter tweets for you.
 
-\---------------------------------------------------------------------
-
-# AZ is now available for 30+ in all pharmacies. The doses are almost all spoken for so let the race begin!
-
 \--------------------------------------------------------------------
 
-# I received dose 1 before the registration system was available and I need to get dose 2
-
-# Starting May 1, register for your second dose. You will then get a notification when you are eligible to book your second dose. 
-
-\-------------------------------------------------------------------
-
-&#x200B;
-
-https://preview.redd.it/mk274xlg6sw61.png?width=900&format=png&auto=webp&s=11886a7fb403a373ec926ed81fc6446873f4683d
+https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b962c080e6fbdddd52ee9b12289f999dff6457
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
@@ -39,7 +27,7 @@ https://preview.redd.it/mk274xlg6sw61.png?width=900&format=png&auto=webp&s=11886
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **56 years of age (1965 or earlier)** or older, as of April 30th
+   * **Booking:** BC is currently booking appointments for those 49 **years of age (1972 or earlier)** or older, as of May 6th
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
    * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
@@ -52,21 +40,11 @@ https://preview.redd.it/mk274xlg6sw61.png?width=900&format=png&auto=webp&s=11886
       * People can call their local pharmacy ([link to Pharmacy locations](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations)) to book an appointment.
       * Drop in appointments may also be an option at over 150 participating pharmacies. ([Source](https://news.gov.bc.ca/releases/2021HLTH0061-000595))
 
-# 2) Critically Extremely Vulnerable (CEV)
+# 2) Other Streams
 
-* As of April 1st, if you are clinically extremely vulnerable (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)) and you have received a letter from BC saying so you can start booking appointments.  If you are CEV and have not received a letter you can call on April 15th to see if you qualify.
-* Visit this BC CDC site to find information to help you plan for your vaccine with considerations for your health condition (talks about medications and the right time to book an appointment, etc) ([Source](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/covid-19-vaccine/vaccine-considerations#cev)).
-
-# 3) Indigenous Peoples
-
+* Critically Extremely Vulnerable (CEV) can book at any time (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)).
 * All **Indigenous adults over 18+** (born 2003 or earlier) can start booking their appointments
-
-# 4) Frontline workers
-
-* BC wants to get all first responders, educators and child care workers vaccinated by mid-May and are using 15% of our weekly doses towards this stream.
-* How to tell if you are a frontline worker ([Source](https://news.gov.bc.ca/files/03.18.2021_COVID_Immunization_Plan.pdf), slides 4-11)
-* If you are in this group your employer will contact you how to get vaccinated.
-* Educators and first responders are being prioritized in communities with more covid cases (Surrey, Vancouver, Delta, Coquitlam, Abbotsford and Langley are some examples). Check with your employer for more information
+* Frontline workers - BC is prioritizing all teacher staff, first responders and child care staff in the Lower Mainland
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
