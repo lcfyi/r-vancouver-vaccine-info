@@ -117,6 +117,6 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 
 # BC vaccination projections
 
-https://preview.redd.it/g9h3rkf7ggv61.png?width=1662&format=png&auto=webp&s=9662814a80305c62a470b498eca1b039ee93c4a2
+https://preview.redd.it/4jerpaumz8y61.png?width=702&format=png&auto=webp&s=8334a4fc910c68b2c2c7f8e4811784e0936c5530
 
 BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered.
