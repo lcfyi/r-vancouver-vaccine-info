@@ -1,8 +1,8 @@
-# [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
+# Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+) 
 
-# Need to find a Pharmacy? Look at Vaccine Hunters BC to find open spots in your area ([Twitter](https://twitter.com/VaxHuntersBC)) or use this [website](http://vaccineupdates.ca/) that let's you customize the Vaccine Hunter tweets for you.
+# Please ask questions if you need any help
 
-\--------------------------------------------------------------------
+\-------------------------------------------------------------------- 
 
 https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b962c080e6fbdddd52ee9b12289f999dff6457
 
@@ -14,25 +14,30 @@ https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b96
 
 &#x200B;
 
-# Finding an AstraZeneca Pharmacy (30+):
-
-* Looking for booking an AZ vaccine through a pharmacy?
-* There is a [**Twitter**](https://twitter.com/VaxHuntersCan) account that posts which pharmacy has appointments available.  This is the best way to shop for an appointment.
-   * They post about 10-20 different locations per day in BC
-   * They also post other provinces so you will need to scroll through to find one that is close to you
-
-&#x200B;
-
 # 1) Age Based Rollout
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those 49 **years of age (1972 or earlier)** or older, as of May 6th
+   * **Booking:** BC is currently booking appointments for those **43 years of age (1978 or earlier)** or older, as of May 9th
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
+
+# 2) Hot-spot Rollout
+
+* If you are 30 or older and live in a hotspot area you can book your appointment [More Details](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood). These clinics give Pfizer and Moderna
+* **High risk communities can book through clinics in these cities:**
+   * **VCH 30+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview  
+   * **FHA 30+:**  Abbotsford Rural, Burnaby Southeast, Burnaby Southwest, Central Abbotsford, Cloverdale, East Abbotsford, East Newton, Fleetwood, Guildford, North Delta, North Surrey, Panorama, Port Coquitlam, South Langley Township, South Mission, West Abbotsford, West Newton, Whalley, and Willoughby
+   * **IHA:** Golden (18+), Rutland (30+), and Summerland (30+)
+   * **NHA:** Dawson Creek (18+), Fort Nelson Population Centre (18+), Fort St. John (18+), and Fort St. James North (18+)
+   * You can see if you apply by going [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood) and typing in your zip code. Anecdotal evidence has said that the zip code is not working properly on this website so check out your Local Health Areas: [here](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/land-use/administrative-boundaries/health-boundaries). 
+
+&#x200B;
+
+# 3) Pharmacy Stream 
+
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
    * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
       * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
-      * **\*\*New\*\* High risk communities can book through clinics in these cities:  Dawson Creek, West Newton, Whalley, North Delta, East Newton, Panorama, South Langley, West Abbotsford, North Surrey, Port Coquitlam, Squamish, Kensington, Fleetwood, Renfrew-Collingwood, Sunset, Brittania Beach, Pinecrest  Estates and D'arcy** [More Information](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood)
       * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
       * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
       * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
@@ -40,11 +45,11 @@ https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b96
       * People can call their local pharmacy ([link to Pharmacy locations](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations)) to book an appointment.
       * Drop in appointments may also be an option at over 150 participating pharmacies. ([Source](https://news.gov.bc.ca/releases/2021HLTH0061-000595))
 
-# 2) Other Streams
+# 4) Other Streams
 
 * Critically Extremely Vulnerable (CEV) can book at any time (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)).
 * All **Indigenous adults over 18+** (born 2003 or earlier) can start booking their appointments
-* Frontline workers - BC is prioritizing all teacher staff, first responders and child care staff in the Lower Mainland
+* Prioritized workers born in 2003 or earlier (18+): identified at-risk worksites, first responders, school staff, childcare workers, grocery store workers, restaurant workers (VCH only for restaurants) - these groups must have access code provided by employer
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
@@ -117,6 +122,8 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 
 # BC vaccination projections
 
-https://preview.redd.it/4jerpaumz8y61.png?width=702&format=png&auto=webp&s=8334a4fc910c68b2c2c7f8e4811784e0936c5530
+&#x200B;
+
+https://preview.redd.it/2yso4wv739y61.png?width=702&format=png&auto=webp&s=36f163d05dc5b94c78138b02983790ad113cdc3f
 
 BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered.
