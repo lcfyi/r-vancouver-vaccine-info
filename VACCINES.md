@@ -1,8 +1,8 @@
-# Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+) 
+# Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
 
 # Please ask questions if you need any help
 
-\-------------------------------------------------------------------- 
+\--------------------------------------------------------------------
 
 https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b962c080e6fbdddd52ee9b12289f999dff6457
 
@@ -25,15 +25,15 @@ https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b96
 
 * If you are 30 or older and live in a hotspot area you can book your appointment [More Details](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood). These clinics give Pfizer and Moderna
 * **High risk communities can book through clinics in these cities:**
-   * **VCH 30+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview  
+   * **VCH 30+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview
    * **FHA 30+:**  Abbotsford Rural, Burnaby Southeast, Burnaby Southwest, Central Abbotsford, Cloverdale, East Abbotsford, East Newton, Fleetwood, Guildford, North Delta, North Surrey, Panorama, Port Coquitlam, South Langley Township, South Mission, West Abbotsford, West Newton, Whalley, and Willoughby
    * **IHA:** Golden (18+), Rutland (30+), and Summerland (30+)
    * **NHA:** Dawson Creek (18+), Fort Nelson Population Centre (18+), Fort St. John (18+), and Fort St. James North (18+)
-   * You can see if you apply by going [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood) and typing in your zip code. Anecdotal evidence has said that the zip code is not working properly on this website so check out your Local Health Areas: [here](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/land-use/administrative-boundaries/health-boundaries). 
+   * You can see if you apply by going [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood) and typing in your zip code. Anecdotal evidence has said that the zip code is not working properly on this website so check out your Local Health Areas: [here](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/land-use/administrative-boundaries/health-boundaries).
 
 &#x200B;
 
-# 3) Pharmacy Stream 
+# 3) Pharmacy Stream
 
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
    * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
@@ -117,13 +117,3 @@ The COVID-19 vaccines that have been approved by Health Canada are safe, effec
 * Learn about the [Moderna vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/moderna.html)
 * Learn about the [AstraZeneca/SII COVISHIELD (AZ/SII) vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/astrazeneca.html)
 * Learn about the [Johnson & Johnson vaccine](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/janssen.html)
-
-\----------------------------------------------------------------------------------------------------------------
-
-# BC vaccination projections
-
-&#x200B;
-
-https://preview.redd.it/2yso4wv739y61.png?width=702&format=png&auto=webp&s=36f163d05dc5b94c78138b02983790ad113cdc3f
-
-BC expects 80% uptake of its 4.3M adults (so 3.4M).  You can see two different predictions of when our vaccination first dose program will be wrapping up. The graph does not reflect when the second dose will be administered.
