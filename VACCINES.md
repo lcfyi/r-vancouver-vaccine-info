@@ -18,17 +18,17 @@ https://preview.redd.it/hej96u096nx61.png?width=909&format=png&auto=webp&s=d2b96
 
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **43 years of age (1978 or earlier)** or older, as of May 9th
+   * **Booking:** BC is currently booking appointments for those **40 years of age (1981 or earlier)** or older, as of May 10th
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 
 # 2) Hot-spot Rollout
 
 * If you are 30 or older and live in a hotspot area you can book your appointment [More Details](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood). These clinics give Pfizer and Moderna
-* **High risk communities can book through clinics in these cities:**
-   * **VCH 30+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview
-   * **FHA 30+:**  Abbotsford Rural, Burnaby Southeast, Burnaby Southwest, Central Abbotsford, Cloverdale, East Abbotsford, East Newton, Fleetwood, Guildford, North Delta, North Surrey, Panorama, Port Coquitlam, South Langley Township, South Mission, West Abbotsford, West Newton, Whalley, and Willoughby
-   * **IHA:** Golden (18+), Rutland (30+), and Summerland (30+)
-   * **NHA:** Dawson Creek (18+), Fort Nelson Population Centre (18+), Fort St. John (18+), and Fort St. James North (18+)
+* **High risk communities can book through clinics in these cities all open to 18+**
+   * **VCH 18+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview
+   * **FHA 18+:**  Abbotsford Rural, Burnaby Southeast, Burnaby Southwest, Central Abbotsford, Cloverdale, East Abbotsford, East Newton, Fleetwood, Guildford, North Delta, North Surrey, Panorama, Port Coquitlam, South Langley Township, South Mission, West Abbotsford, West Newton, Whalley, and Willoughby
+   * **IHA 18+:** Golden, Rutland, and Summerland
+   * **NHA 18+:** Dawson Creek, Fort Nelson Population Centre, Fort St. John, and Fort St. James North
    * You can see if you apply by going [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood) and typing in your zip code. Anecdotal evidence has said that the zip code is not working properly on this website so check out your Local Health Areas: [here](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/land-use/administrative-boundaries/health-boundaries).
 
 &#x200B;
