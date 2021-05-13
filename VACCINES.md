@@ -17,8 +17,7 @@
 * Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
    * **Booking:** BC is currently booking appointments for those **40 years of age (1981 or earlier)** or older, as of May 11th
-      * 36+ for VCH and FH as of May 11th at 7pm 
-      * On May 12th at 7pm everyone 30+ in VCH and FH 
+      * On May 12th at 7pm everyone 30+ in VCH and FH
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 
 # 2) Hot-spot Rollout
