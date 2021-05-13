@@ -4,6 +4,8 @@
 
 \--------------------------------------------------------------------
 
+https://preview.redd.it/0jacv7bb0zy61.jpg?width=1201&format=pjpg&auto=webp&s=5aac2de9f22bfd19cb75fbbdb6be8eb027ccc452
+
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
 * **Step 1: Register. First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
