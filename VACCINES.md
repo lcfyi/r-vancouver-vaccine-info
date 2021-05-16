@@ -16,41 +16,15 @@ https://preview.redd.it/0jacv7bb0zy61.jpg?width=1201&format=pjpg&auto=webp&s=5aa
 
 # 1) Age Based Rollout
 
-* Check your health authority and area for the exact age ranges
 * **Pfizer and Moderna**
-   * **Booking:** BC is currently booking appointments for those **40 years of age (1981 or earlier)** or older, as of May 11th
-      * On May 12th at 7pm everyone 30+ in VCH and FH
+   * **Booking:** BC is currently booking appointments for those **20 years of age (2001 or earlier)** or older, as of May 15th
    * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 
-# 2) Hot-spot Rollout
+# 2) Pharmacy Stream - AZ
 
-* If you are 30 or older and live in a hotspot area you can book your appointment [More Details](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood). These clinics give Pfizer and Moderna
-* **High risk communities can book through clinics in these cities all open to 18+**
-   * **VCH 18+:**  Britannia Beach, Cedar Cottage, D'arcy, Grandview-Woodland, Hastings-Sunrise, Kensington, Killarney, Pinecrest Estates, Renfrew-Collingwood, Squamish, Sunset, and Victoria-Fraserview
-   * **FHA 18+:**  Abbotsford Rural, Burnaby Southeast, Burnaby Southwest, Central Abbotsford, Cloverdale, East Abbotsford, East Newton, Fleetwood, Guildford, North Delta, North Surrey, Panorama, Port Coquitlam, South Langley Township, South Mission, West Abbotsford, West Newton, Whalley, and Willoughby
-   * **IHA 18+:** Golden, Rutland, and Summerland
-   * **NHA 18+:** Dawson Creek, Fort Nelson Population Centre, Fort St. John, and Fort St. James North
-   * You can see if you apply by going [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/neighbourhood) and typing in your zip code. Anecdotal evidence has said that the zip code is not working properly on this website so check out your Local Health Areas: [here](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/land-use/administrative-boundaries/health-boundaries).
-
-&#x200B;
-
-# 3) Pharmacy Stream
-
+* BC is still honouring appointments but is not booking any more AstraZeneca for first doses. 
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
-   * People aged 30**+ in the every health authority** can start booking their AstraZeneca/Oxford vaccine appointments now.
-      * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
-      * Can book online appointments at Rexall at 9 locations in the Lower Mainland ([Source](https://rexall.medmeapp.com/schedule))
-      * Can book online appointments at FreshCo, Safeway, ThriftyFoods, etc ([Source](https://www.pharmacyappointments.ca/))
-      * Costco online appointments booking ([Source](https://www.costcopharmacy.ca/appointment)) <- don't need to be a member
-      * Shoppers Drug Mart online appointment booking ([Source](https://covid-19.shoppersdrugmart.ca/en?_ga=2.93975893.991654939.1618447569-1544586229.1618447569))
-      * People can call their local pharmacy ([link to Pharmacy locations](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations)) to book an appointment.
-      * Drop in appointments may also be an option at over 150 participating pharmacies. ([Source](https://news.gov.bc.ca/releases/2021HLTH0061-000595))
-
-# 4) Other Streams
-
-* Critically Extremely Vulnerable (CEV) can book at any time (see if you qualify:  [here](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/cev)).
-* All **Indigenous adults over 18+** (born 2003 or earlier) can start booking their appointments
-* Prioritized workers born in 2003 or earlier (18+): identified at-risk worksites, first responders, school staff, childcare workers, grocery store workers, restaurant workers (VCH only for restaurants) - these groups must have access code provided by employer
+   * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
 
 # BC's Immunization [Plan](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan) (as of March 23rd)
 
