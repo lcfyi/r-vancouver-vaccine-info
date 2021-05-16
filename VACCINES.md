@@ -1,6 +1,8 @@
 # Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
 
-# Please ask questions if you need any help
+# Please ask questions if you need any help. Call 1-833-838-2323
+
+# Appointments will start being sent out at 7pm and are sent out in a staggered way.  You should get an appointment in 24 hours after you are eligible.  If you do not get an invitation to book I would call (1-833-838-2323, open 7am to 7pm every day) the following day to book through an agent. 
 
 \--------------------------------------------------------------------
 
@@ -22,7 +24,7 @@ https://preview.redd.it/0jacv7bb0zy61.jpg?width=1201&format=pjpg&auto=webp&s=5aa
 
 # 2) Pharmacy Stream - AZ
 
-* BC is still honouring appointments but is not booking any more AstraZeneca for first doses. 
+* BC is still honouring appointments but is not booking any more AstraZeneca for first doses.
 * **30+ (1991 or earlier) AstraZeneca in pharmacies and certain clinics across BC**
    * Over 600 pharmacies across BC. Find one close to you [here](https://www.bcpharmacy.ca/resource-centre/covid-19/vaccination-locations) and more information. You have to scroll down a lot to find Interior, Island and Northern Health locations.
 
@@ -56,14 +58,6 @@ At the clinic you will:
 * Wait in an observation area for about 15 minutes
 
 You can expect to be at the clinic for 30 to 60 minutes in total. 
-
-## I still have questions
-
-Need help? Talk to a Service BC agent about non-health related information and services related to COVID-19.
-
-Service is available 7:30 am to 8 pm. 
-
-Call: 1-888-COVID19
 
 ## Translated information
 
