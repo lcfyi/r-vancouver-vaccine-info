@@ -1,10 +1,10 @@
-# Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 18+)
+# Most Important: Everybody needs to [Register to get Vaccinated](https://www.getvaccinated.gov.bc.ca/s/) (open to all those 12+)
 
 &#x200B;
 
 # All 18+ (born 2003 or earlier) can register and are able to book an appointment
 
-# Please ask questions if you need any help. 
+# Please ask questions if you need any help.
 
 # Call 1-833-838-2323 (7am-7pm to book)
 
@@ -14,7 +14,7 @@
 
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
-* **Step 1: Register 18+ (2003 or earlier). First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
+* **Step 1: Register 12+ (2009 or earlier). First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
 * **Step 2: Book an appointment (18+ of age or born 2003 or earlier). You will be contacted to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
 * **Step 3: Visit the vaccine clinic to get your vaccine dose.**
 
@@ -24,7 +24,7 @@
 
 * **Pfizer and Moderna**
    * **Booking:** BC is currently booking appointments for those **18 years of age (2003 or earlier)** or older, as of May 17th
-   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of April 30th  **everyone born in 2003 (18+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
+   * [Registering](https://www.getvaccinated.gov.bc.ca/s/)**:** As of May 18th  **everyone born in 2009 (12+)** or earlier can register. ([Source](https://news.gov.bc.ca/releases/2021HLTH0029-000757))
 
 # 2) Pharmacy Stream - AZ
 
