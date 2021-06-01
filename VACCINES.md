@@ -17,99 +17,103 @@
 * **Step 1: Register 12+ (2009 or earlier). First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
 * **Step 2: Book an appointment (18+ of age or born 2003 or earlier). You will be contacted to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
 * **Step 3: Visit the vaccine clinic to get your first vaccine dose.**
-* **Step 4: BC is administering second doses at about 8 weeks now.  You will get notification through your email or text message about when it is your time to book.  They are currently booking those that got their first dose before April** 
+* **Step 4: BC is administering second doses at about 8 weeks now.  You will get notification through your email or text message about when it is your time to book.  They are currently booking those that got their first dose before April**
 
 &#x200B;
 
-#  Booking availability in the Lower Mainland
+# Booking availability in the Lower Mainland
 
 # This is how far ahead clinics are booking as of right now (updated Sunday, May 30 at 11:20 AM)
 
-Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.  
+Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
 
 &#x200B;
 
+ 
+
+This is how far ahead clinics are booking as of right now (updated Monday, May 31 at 7PM):
+
 **Abbotsford**
 
-Abbotsford Ag Rec - June 12
+Abbotsford Ag Rec - June 16
 
 **Burnaby**
 
-Burnaby BCIT - June 17
+Burnaby BCIT - no appts available
 
-Burnaby Fortius - June 12
+Burnaby Fortius - June 16
 
 **Chilliwack**
 
-Chilliwack Mall - June 11
+Chilliwack Mall - June 17
 
-Chilliwack Testing - June 20
+Chilliwack Testing - no appts available
 
 **Coquitlam**
 
-Coquitlam Poirier - June 11
+Coquitlam Poirier - June 15
 
 Coquitlam Testing - no appts available
 
 **Delta**
 
-North Delta - June 20
+North Delta - no appts available
 
 South Delta Testing - no appts available
 
 **Langley**
 
-Langley Events Centre - June 12
+Langley Events Centre - June 17
 
 Langley Testing - no appts available
 
 **Maple Ridge**
 
-Haney Place Mall - June 13
+Haney Place Mall - June 17
 
 **Mission**
 
-Mission Testing - June 16
+Mission Testing - June 6
 
 **New West**
 
-New West Anvil Centre - June 10
+New West Anvil Centre - June 13
 
 **North Van**
 
-North Van - June 19
+North Van - June 21
 
 **Richmond**
 
 HJ Cambie - not bookable from my end or call centre, also currently fully booked
 
-KPU - June 21
+KPU - June 23
 
-River Rock - June 22
+River Rock - June 26
 
 **Surrey**
 
-Cloverdale - June 8 << *currently soonest in Metro Vancouver*
+Cloverdale - June 13
 
-Guildford - June 10
+Guildford - June 16
 
 South Surrey Testing - no appts available
 
-South Surrey Rec Centre - June 12
+South Surrey Rec Centre - June 17
 
-Surrey 66 - June 20
+Surrey 66 - no appts available
 
 Surrey North - no appts available
 
 **Vancouver**
 
-Italian CC - June 23
+Italian CC - June 26 (3 appts remaining), June 27
 
-Kerrisdale - June 24
+Kerrisdale - no appts available
 
-UBC - June 22
+UBC - June 23 (6 appts remaining), June 24
 
-Vancouver Convention Centre - June 15
+Vancouver Convention Centre - June 18
 
 VCH Travel Clinic - no appts available
 
@@ -117,6 +121,6 @@ VCC Testing - no appts available
 
 **West Van**
 
-West Van CC - June 15
+West Van CC - June 18
 
-If you're lucky, you may be able to snag a cancellation earlier.
+*If you're lucky, you may be able to snag a cancellation earlier.*
