@@ -31,27 +31,27 @@ Note: Dates and times are meant to give you an idea of what is available. Bookin
 
  
 
-This is how far ahead clinics are booking as of right now (updated Monday, May 31 at 7PM):
+This is how far ahead clinics are booking as of right now (updated Tuesday, June 1 at 6PM):
 
 **Abbotsford**
 
-Abbotsford Ag Rec - June 16
+Abbotsford Ag Rec - June 17
 
 **Burnaby**
 
 Burnaby BCIT - no appts available
 
-Burnaby Fortius - June 16
+Burnaby Fortius - June 18
 
 **Chilliwack**
 
-Chilliwack Mall - June 17
+Chilliwack Mall - no appts available
 
 Chilliwack Testing - no appts available
 
 **Coquitlam**
 
-Coquitlam Poirier - June 15
+Coquitlam Poirier - June 17
 
 Coquitlam Testing - no appts available
 
@@ -63,43 +63,43 @@ South Delta Testing - no appts available
 
 **Langley**
 
-Langley Events Centre - June 17
+Langley Events Centre - June 20
 
 Langley Testing - no appts available
 
 **Maple Ridge**
 
-Haney Place Mall - June 17
+Haney Place Mall - June 19
 
 **Mission**
 
-Mission Testing - June 6
+Mission Testing - June 16
 
 **New West**
 
-New West Anvil Centre - June 13
+New West Anvil Centre - June 16
 
 **North Van**
 
-North Van - June 21
+North Van - June 23
 
 **Richmond**
 
-HJ Cambie - not bookable from my end or call centre, also currently fully booked
+HJ Cambie - no appts available (but finally bookable from my end and through call centre)
 
-KPU - June 23
+KPU - June 25
 
-River Rock - June 26
+River Rock - June 21
 
 **Surrey**
 
-Cloverdale - June 13
+Cloverdale - June 16
 
-Guildford - June 16
+Guildford - June 18
 
 South Surrey Testing - no appts available
 
-South Surrey Rec Centre - June 17
+South Surrey Rec Centre - June 20
 
 Surrey 66 - no appts available
 
@@ -107,13 +107,13 @@ Surrey North - no appts available
 
 **Vancouver**
 
-Italian CC - June 26 (3 appts remaining), June 27
+Italian CC - June 29
 
-Kerrisdale - no appts available
+Kerrisdale - June 28
 
-UBC - June 23 (6 appts remaining), June 24
+UBC - no appts available
 
-Vancouver Convention Centre - June 18
+Vancouver Convention Centre - June 4 **<< soonest in Lower Mainland**
 
 VCH Travel Clinic - no appts available
 
@@ -121,6 +121,6 @@ VCC Testing - no appts available
 
 **West Van**
 
-West Van CC - June 18
+West Van CC - June 20
 
 *If you're lucky, you may be able to snag a cancellation earlier.*
