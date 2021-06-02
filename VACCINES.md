@@ -23,15 +23,11 @@
 
 # Booking availability in the Lower Mainland
 
-# This is how far ahead clinics are booking as of right now (updated Sunday, May 30 at 11:20 AM)
-
-Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
+# Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
 
 &#x200B;
 
- 
-
-This is how far ahead clinics are booking as of right now (updated Tuesday, June 1 at 6PM):
+This is how far ahead clinics are booking as of right now (updated **Tuesday, June 1 at 6PM):**
 
 **Abbotsford**
 
