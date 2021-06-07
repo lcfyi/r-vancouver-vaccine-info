@@ -25,53 +25,51 @@
 
 # Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
 
-&#x200B;
-
  
 
-This is how far ahead clinics are booking as of right now (updated Saturday, June 5 at 3:40 PM):
+This is how far ahead clinics are booking as of right now (updated Sunday, June 6 at 6PM):
 
 **Abbotsford**
 
-Abbotsford Ag Rec - June 27
+Abbotsford Ag Rec - June 30
 
 **Burnaby**
 
-Burnaby BCIT - June 25
+Burnaby BCIT - June 27
 
-Christine Sinclair aka Burnaby Fortius - **June 23 - SOONEST**
+Christine Sinclair aka Burnaby Fortius - June 24 (also currently 5 slots available before then)
 
 **Chilliwack**
 
-Chilliwack COVID Testing - July 1
+Chilliwack COVID Testing - July 3
 
-Chilliwack Mall - June 29
+Chilliwack Mall - July 1
 
 **Coquitlam**
 
-Coquitlam COVID Testing - June 30
+Coquitlam COVID Testing - July 1
 
-Coquitlam Poirier - **June 23 - SOONEST**
+Coquitlam Poirier - June 24
 
 **Delta**
 
-North Delta - June 27
+North Delta - June 29
 
-South Delta - no appts available
+South Delta - fully booked
 
 **Langley**
 
-Langley COVID Testing - June 30
+Langley COVID Testing - July 1
 
-Langley Events Centre - June 24
+Langley Events Centre - June 25
 
 **Maple Ridge**
 
-Haney Place Mall - June 25
+Haney Place Mall - June 27
 
 **Mission**
 
-Mission COVID Testing - June 26
+Mission COVID Testing - June 27
 
 **New West**
 
@@ -79,46 +77,44 @@ New West Anvil Centre - **June 23 - SOONEST**
 
 **North Van**
 
-North Van - June 28
+North Van - June 29
 
 **Richmond**
 
-HJ Cambie - no appts available, location not planned to be open after June 9
+HJ Cambie - fully booked, location not planned to be open after June 9
 
-KPU - June 30
+KPU - July 2
 
-River Rock - July 1
+River Rock - July 2 (3 appts remaining), July 3
 
 **Surrey**
 
-Cloverdale - **June 23 - SOONEST**
+Cloverdale - June 24
 
 Guildford - June 24
 
-South Surrey COVID Testing - July 1
+South Surrey COVID Testing - July 2
 
 South Surrey Rec Centre - June 24
 
-Surrey 66 - June 29
-
-Surrey North - no appts available, location not planned to be open after June 6
+Surrey 66 - June 30
 
 **Vancouver**
 
-Italian Cultural Centre - July 4
+Italian Cultural Centre - July 4 (4 appts remaining), July 5
 
-Kerrisdale - July 4 (6 appts remaining), July 5
+Kerrisdale - July 5
 
-Sunset - June 17 - no appts available - open June 14-18 only
+Sunset - fully booked (open June 14-18 only)
 
-UBC - no appts available
+UBC - fully booked
 
 Vancouver Convention Centre - June 24
 
-VCH Travel Clinic - no appts available
+VCH Travel Clinic - fully booked
 
 **West Van**
 
-West Van CC - June 24
+West Van CC - June 25
 
 *There's always a chance of being able to get an earlier appointment due to a cancellation.*
