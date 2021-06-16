@@ -27,95 +27,97 @@
 
  
 
-This is how far ahead clinics are booking as of Saturday, June 12 at 1PM - I update roughly once per day.
+This is how far ahead clinics are booking as of Tuesday, June 15 at 6:33 PM - I update roughly once per day.
 
 **Abbotsford**
 
-Abbotsford Ag Rec - July 8
+Abbotsford Ag Rec - July 13
 
 **Burnaby**
 
-Burnaby BCIT - no appts available (fully booked)
+Burnaby BCIT - July 6
 
-Christine Sinclair aka Burnaby Fortius - July 1
+Christine Sinclair aka Burnaby Fortius - June 28
 
 **Chilliwack**
 
-Chilliwack COVID Testing - July 8
+Chilliwack COVID Testing - July 13
 
-Chilliwack Mall - July 8 (also currently 7 appts available over the dates July 1, 3, 4, 6)
+Chilliwack Mall - **June 28**
 
 **Coquitlam**
 
-Coquitlam COVID Testing - no appts available (fully booked)
+Coquitlam COVID Testing - **June 28**
 
-Coquitlam Poirier - July 3
+Coquitlam Poirier - July 6
 
 **Delta**
 
-North Delta - July 7
+North Delta - **June 28**
 
-South Delta - no appts available (fully booked)
+South Delta - July 13
 
 **Langley**
 
-Langley COVID Testing - July 8
+Langley COVID Testing - no appts available (fully booked)
 
-Langley Events Centre - July 6
+Langley Events Centre - July 11
 
 **Maple Ridge**
 
-Haney Place Mall - July 6
+Haney Place Mall - **June 28**
 
 **Mission**
 
-Mission COVID Testing - July 7
+Mission COVID Testing - **June 28**
 
 **New West**
 
-New West Anvil Centre - July 1
+New West Anvil Centre - **June 28**
 
 **North Van**
 
-North Van - July 5
+North Van - July 7
 
 **Richmond**
 
 HJ Cambie - no appts available (fully booked)
 
-KPU - July 7
+KPU - July 8
 
-River Rock - July 7
+River Rock - July 8
 
 **Surrey**
 
-Cloverdale - July 4
+Cloverdale - **June 28**
 
-Guildford - July 6
+Guildford - July 11
 
-South Surrey COVID Testing - July 8
+South Surrey COVID Testing - no appts available (fully booked)
 
-South Surrey Rec Centre - July 4
+South Surrey Rec Centre - **June 28**
 
-Surrey 66 - July 7
+Surrey 66 - July 13
 
 **Vancouver**
 
-Italian Cultural Centre - July 12
+Italian Cultural Centre - July 14
 
-Kerrisdale - July 12
+Kerrisdale - July 14
 
 Sunset - no appts available
 
 UBC - no appts available (fully booked)
 
-Vancouver Convention Centre - July 3
+Vancouver Convention Centre - July 6
 
 VCH Travel Clinic - no appts available (fully booked)
 
+West End - June 22 **NEW LOCATION + SOONEST AVAILABLE**
+
 **West Van**
 
-West Van CC - July 2
+West Van CC - July 3
 
 *It may be possible to get an earlier appointment if there is a cancellation.*
 
@@ -123,21 +125,27 @@ West Van CC - July 2
 
 For more info including exact locations: [https://www.fraserhealth.ca/registration#easi](https://www.fraserhealth.ca/registration#easi)
 
-NEIGHBOURHOOD CLINICS
+**NEIGHBOURHOOD CLINICS**
 
 must live in neighbourhood, IDs will be checked
 
-Burnaby - June 14 and 15, 10AM to 5PM
-
-Burnaby - June 23, 10AM to 5PM
-
-Chilliwack - June 12, 10AM to 4PM
+Abbotsford Gurdwara - June 16, 10AM to 3:30PM
 
 Mission - June 17 and 18, 12PM to 7PM
 
-EASI CLINICS
+Chilliwack - June 19, 10AM to 4PM **NEW**
+
+Aldergrove - June 20, 10AM to 3:30PM **NEW**
+
+Burnaby Confederation - June 23, 10AM to 5PM
+
+**EASI CLINICS**
 
 open to any Fraser Health residents
+
+Surrey North - DAILY, 11AM to 7PM or until vaccines distributed
+
+Surrey Chuck Bailey - TUESDAYS/FRIDAYS/SATURDAYS, 11AM to 7PM or until doses distributed **NEW**
 
 Agassiz - June 16, 3PM to 6PM
 
@@ -145,11 +153,11 @@ Hope - June 17, 3PM to 6PM
 
 Surrey Guildford - June 19 7PM to June 20 7PM
 
-Surrey North - DAILY, 11AM to 7PM or until vaccines distributed
+**CLINICS FOR COMMERCIAL DRIVERS** \- Class 1, 2, and 3
+
+Delta Hwy 91 NB truck pullout - June 16 and 17, 10AM to 4PM
 
 **VCH DROP-IN CLINICS FOR YOUTH 12-17**
-
-Ray-Cam Community Centre - June 12, 10AM to 5PM
 
 Sunset Community Centre - June 16 and 17, 12PM to 4PM
 
