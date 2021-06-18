@@ -25,140 +25,84 @@
 
 # Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
 
+&#x200B;
+
  
 
-This is how far ahead clinics are booking as of Tuesday, June 15 at 6:33 PM - I update roughly once per day.
+(This is for people who already have a booking confirmation)
 
-**Abbotsford**
+1: Click "Cancel" link in email, You will be given 2 options, change or cancel.
 
-Abbotsford Ag Rec - July 13
+(This is the link in the email: [https://www.getvaccinated.gov.bc.ca/s/cancel-booking](https://www.getvaccinated.gov.bc.ca/s/cancel-booking) )
 
-**Burnaby**
+2: Find immediately available spots or hunt for cancellations
 
-Burnaby BCIT - July 6
+Example:
 
-Christine Sinclair aka Burnaby Fortius - June 28
+📷
 
-**Chilliwack**
+a LOT of new vaccine spots just opened up for next week, as early as June 19 for both VCH and FH. I just rescheduled a family member 2 weeks ahead, multiple people rescheduled their appt by 3-4 weeks already.
 
-Chilliwack COVID Testing - July 13
+If you hunt for cancellations, you might be able to find an appointment same day or next day (just need to be flexible with time and location)
 
-Chilliwack Mall - **June 28**
+[related twitter thread](https://twitter.com/DrBirinderSingh/status/1405298035077181441)
 
-**Coquitlam**
+&#x200B;
 
-Coquitlam COVID Testing - **June 28**
+# 
 
-Coquitlam Poirier - July 6
+# Earliest vaccine clinic booking times (updated as of June 17th 8:30pm): [https://www.reddit.com/r/vancouver/comments/ne35nh/psa\_earliest\_vaccination\_appointments\_for\_metro/](https://www.reddit.com/r/vancouver/comments/ne35nh/psa_earliest_vaccination_appointments_for_metro/)
 
-**Delta**
+&#x200B;
 
-North Delta - **June 28**
+&#x200B;
 
-South Delta - July 13
-
-**Langley**
-
-Langley COVID Testing - no appts available (fully booked)
-
-Langley Events Centre - July 11
-
-**Maple Ridge**
-
-Haney Place Mall - **June 28**
-
-**Mission**
-
-Mission COVID Testing - **June 28**
-
-**New West**
-
-New West Anvil Centre - **June 28**
-
-**North Van**
-
-North Van - July 7
-
-**Richmond**
-
-HJ Cambie - no appts available (fully booked)
-
-KPU - July 8
-
-River Rock - July 8
-
-**Surrey**
-
-Cloverdale - **June 28**
-
-Guildford - July 11
-
-South Surrey COVID Testing - no appts available (fully booked)
-
-South Surrey Rec Centre - **June 28**
-
-Surrey 66 - July 13
-
-**Vancouver**
-
-Italian Cultural Centre - July 14
-
-Kerrisdale - July 14
-
-Sunset - no appts available
-
-UBC - no appts available (fully booked)
-
-Vancouver Convention Centre - July 6
-
-VCH Travel Clinic - no appts available (fully booked)
-
-West End - June 22 **NEW LOCATION + SOONEST AVAILABLE**
-
-**West Van**
-
-West Van CC - July 3
-
-*It may be possible to get an earlier appointment if there is a cancellation.*
+ 
 
 **Fraser Health same-day appointment clinics - for Fraser Health residents**
 
-For more info including exact locations: [https://www.fraserhealth.ca/registration#easi](https://www.fraserhealth.ca/registration#easi)
-
-**NEIGHBOURHOOD CLINICS**
-
-must live in neighbourhood, IDs will be checked
-
-Abbotsford Gurdwara - June 16, 10AM to 3:30PM
-
-Mission - June 17 and 18, 12PM to 7PM
-
-Chilliwack - June 19, 10AM to 4PM **NEW**
-
-Aldergrove - June 20, 10AM to 3:30PM **NEW**
-
-Burnaby Confederation - June 23, 10AM to 5PM
+For more info including clinic addresses: [https://www.fraserhealth.ca/registration#easi](https://www.fraserhealth.ca/registration#easi)
 
 **EASI CLINICS**
 
-open to any Fraser Health residents
+open to any Fraser Health residents, first doses prioritized
 
-Surrey North - DAILY, 11AM to 7PM or until vaccines distributed
+Abbotsford Ag Rec - DAILY, 10:45PM\* to 4:45PM (\*presumably error and should be 10:45AM) **NEW**
 
-Surrey Chuck Bailey - TUESDAYS/FRIDAYS/SATURDAYS, 11AM to 7PM or until doses distributed **NEW**
+Chilliwack - DAILY, 10:15AM to 4PM Sun-Wed, 10:15AM to 7:30PM Thurs-Fri **NEW**
 
-Agassiz - June 16, 3PM to 6PM
+Burnaby Christine Sinclair - DAILY, 8AM to 8:30PM **NEW**
 
-Hope - June 17, 3PM to 6PM
+Cloverdale Rec - DAILY, 8AM to 8:30PM **NEW**
 
-Surrey Guildford - June 19 7PM to June 20 7PM
+Coquitlam Poirier Forum - DAILY, 8AM to 8:30 PM **NEW**
 
-**CLINICS FOR COMMERCIAL DRIVERS** \- Class 1, 2, and 3
+North Delta Rec - DAILY, 10:45AM to 4:30PM **NEW**
 
-Delta Hwy 91 NB truck pullout - June 16 and 17, 10AM to 4PM
+Langley Events Centre - DAILY, 8AM to 8:45PM **NEW**
 
-**VCH DROP-IN CLINICS FOR YOUTH 12-17**
+Maple Ridge Haney Place Mall - DAILY, 10:45PM\* to 4:30PM (\*again, PM presumably an error) **NEW**
 
-Sunset Community Centre - June 16 and 17, 12PM to 4PM
+New West Anvil Centre - DAILY, 10:45AM to 4:45PM **NEW**
 
-More info: [https://www.britanniacentre.org/database/files/library/covid19\_youth\_12\_17\_vaccination\_June\_FINAL.pdf](https://www.britanniacentre.org/database/files/library/covid19_youth_12_17_vaccination_June_FINAL.pdf)
+Surrey Guildford - DAILY, 7:30AM to 9PM **NEW** and June 19 also 8PM to June 20 7PM (Guildford Vax-a-thon)
+
+Surrey North - DAILY, 11AM to 7PM or until doses distributed
+
+Surrey Chuck Bailey - TUES/FRI/SAT, 11AM to 7PM or until doses distributed
+
+**NEIGHBOURHOOD CLINICS**
+
+must live in neighbourhood, IDs will be checked, first doses prioritized
+
+Aldergrove - June 20, 10AM to 3:30PM
+
+Burnaby Confederation - June 23, 10AM to 5PM
+
+**VACCINE CLINICS FOR CONSTRUCTION WORKERS** \- **NEW**
+
+construction identification required
+
+Abbotsford Ag Rec - June 24, 1:30PM to 4:30PM
+
+Burnaby Christine Sinclair - June 24-25, June 30, July 8-9, 1:30PM to 4:30PM
