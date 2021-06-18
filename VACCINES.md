@@ -2,7 +2,7 @@
 
 &#x200B;
 
-# All 18+ (born 2003 or earlier) can register and are able to book an appointment
+# All 12+ (born 2009 or earlier) can register and are able to book an appointment
 
 # Please ask questions if you need any help.
 
@@ -15,19 +15,13 @@
 # BC's 3 step program to get vaccinated ([Source](https://www2.gov.bc.ca/getvaccinated.html))
 
 * **Step 1: Register 12+ (2009 or earlier). First you register when you are eligible and get a confirmation number. You will need that number to book your vaccine appointment**
-* **Step 2: Book an appointment (18+ of age or born 2003 or earlier). You will be contacted to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
+* **Step 2: Book an appointment (12+ of age or born 2009 or earlier). You will be contacted to book a vaccine appointment when you are eligible based on your age and BC's** [**Immunization Plan phases**](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/plan#general-population)**.** 
 * **Step 3: Visit the vaccine clinic to get your first vaccine dose.**
 * **Step 4: BC is administering second doses at about 8 weeks now.  You will get notification through your email or text message about when it is your time to book.  They are currently booking those that got their first dose before April**
 
 &#x200B;
 
-# Booking availability in the Lower Mainland
-
-# Note: Dates and times are meant to give you an idea of what is available. Booking times may not be available as suggested below as people may book them ahead of you.  More times could become available as people cancel and more doses get allocated to different sites.  Use the information below as a guideline. If you have already booked an appointment you will have to cancel your previous appointment and wait for another invitation to book a different time or call them.
-
-&#x200B;
-
- 
+# To Change your booking:
 
 (This is for people who already have a booking confirmation)
 
@@ -39,7 +33,7 @@
 
 Example:
 
-📷
+https://preview.redd.it/f2o4uv3603671.png?width=457&format=png&auto=webp&s=fb83fc2e23810c1912ae061612c074e0acbf3ed6
 
 a LOT of new vaccine spots just opened up for next week, as early as June 19 for both VCH and FH. I just rescheduled a family member 2 weeks ahead, multiple people rescheduled their appt by 3-4 weeks already.
 
@@ -55,9 +49,7 @@ If you hunt for cancellations, you might be able to find an appointment same day
 
 &#x200B;
 
-&#x200B;
-
- 
+# Clinics in the Lower Mainland: 
 
 **Fraser Health same-day appointment clinics - for Fraser Health residents**
 
