@@ -44,3 +44,13 @@ If you hunt for cancellations, you might be able to find an appointment same day
 &#x200B;
 
 # Earliest vaccine clinic booking times (usually updated daily): [https://www.reddit.com/r/vancouver/comments/ne35nh/psa\_earliest\_vaccination\_appointments\_for\_metro/](https://www.reddit.com/r/vancouver/comments/ne35nh/psa_earliest_vaccination_appointments_for_metro/)
+
+&#x200B;
+
+ \-----------------------------------------------------
+
+Walk-in appointments are open to anyone 12 years and older for **first dose immunization**. All Fraser Health and Vancouver Coastal residents are welcome, including those without personal health numbers, vulnerable people and/or people who are not residents of B.C.  
+
+If you qualify for your second dose (e.g. it has been eight weeks or more since your first dose) and the clinic has capacity, your name will be added to a virtual wait list. You will be texted to come back later that day to get your second dose if there is enough vaccine.
+
+More info for Fraser Health [https://www.fraserhealth.ca/registration#easi](https://www.fraserhealth.ca/registration#easi)
